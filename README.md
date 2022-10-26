@@ -38,4 +38,5 @@
 # Файлы экспорта из Grafana и скриншоты
 
 Файл экспорта находится в репозитории по пути ./json_and_screenshots/grafanaexport/.
+
 А скриншоты находятся по пути ./json_and_screenshots/screenshots/.
